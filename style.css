@@ -1,0 +1,19 @@
+#head {
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 10mm;
+    text-underline-position: below;
+}
+
+body {
+    background-color:darkgray;
+}
+#board {
+    padding-left: 320px;
+}
+#score {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 8mm;
+    padding-left: 450px;
+}
